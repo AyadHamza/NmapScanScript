@@ -20,5 +20,5 @@ foreach($info in $scanInfo){
     write-output "----------------------------"
 
 }
-#$scanInfo | Where-Object {$_.os.osmatch.name}
+
 
